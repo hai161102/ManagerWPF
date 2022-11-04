@@ -1,0 +1,16 @@
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.csproj.AssemblyReference.cache
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.csproj.SuggestedBindingRedirects.cache
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\MainWindow.g.cs
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\App.g.cs
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF_MarkupCompile.cache
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF_MarkupCompile.lref
+D:\visual\ManagerWPF\ManagerWPF\bin\Debug\ManagerWPF.exe.config
+D:\visual\ManagerWPF\ManagerWPF\bin\Debug\ManagerWPF.exe
+D:\visual\ManagerWPF\ManagerWPF\bin\Debug\ManagerWPF.pdb
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\MainWindow.baml
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.g.resources
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.Properties.Resources.resources
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.csproj.GenerateResource.cache
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.csproj.CoreCompileInputs.cache
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.exe
+D:\visual\ManagerWPF\ManagerWPF\obj\Debug\ManagerWPF.pdb
